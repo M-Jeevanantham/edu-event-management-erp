@@ -1,0 +1,7 @@
+@import "tailwindcss";
+#home {
+  background: url("./assets/cultural_events.jpg"); /* ✅ Use / if in public folder */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; /* Ensures full coverage */
+}
